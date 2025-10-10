@@ -2,8 +2,6 @@
 
 Command-line Digital Audio Workstation MVP in Rust.
 
-# Put logo here:
-
 ![logo](https://github.com/blackrushllc/dawg/blob/main/dawg.png)
 
 # Examples:
