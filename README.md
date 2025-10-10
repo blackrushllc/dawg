@@ -1,4 +1,4 @@
-# cli-daw
+# DAWG (cli-daw)
 
 Command-line Digital Audio Workstation MVP in Rust.
 
